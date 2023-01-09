@@ -36,6 +36,7 @@ CS@TU Fast Forward 2023 เรียกสั้น ๆ ว่า "งาน Fas
 - **น้ำฟ้า พัทธ์อัมพร พนมยงค์** - Lead Product Manager @ SCB
 - **แบค** - Blogger
 - **นัท ณัฐ วีระวรรณ์** - Blockchain Researcher @ Beer Cat Lab
+- **ศักดิ์ อดิศักดิ์** - Software Engineer @ Cjexpress
 
 ## พื้นที่สำหรับบูธประชาสัมพันธ์
 บริษัทที่สนใจสามารถจองพื้นที่เปิดบูธประชาสัมพันธ์ได้ฟรี ไม่มีค่าใช้จ่าย จำนวนบูธที่เปิดได้ทั้งหมด 4 บูธ first come first serve
