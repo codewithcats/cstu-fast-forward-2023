@@ -37,6 +37,9 @@ CS@TU Fast Forward 2023 เรียกสั้น ๆ ว่า "งาน Fas
 - **แบค** - Blogger
 - **นัท ณัฐ วีระวรรณ์** - Blockchain Researcher @ Beer Cat Lab
 - **ศักดิ์ อดิศักดิ์** - Software Engineer @ Cjexpress
+- **ดีน Salah Chalermthai** - Curious Technologist @ Thoughtworks (Thailand), co., ltd
+- **อาท สมัชชา ธนังธนกิจ** - Technical Lead @ Krungsri Nimble
+- **ธนัชพร ยุทธนาลิขิต** - Investment Product Manager @ Kiatnakin Phatra Bank
 
 ## พื้นที่สำหรับบูธประชาสัมพันธ์
 บริษัทที่สนใจสามารถจองพื้นที่เปิดบูธประชาสัมพันธ์ได้ฟรี ไม่มีค่าใช้จ่าย จำนวนบูธที่เปิดได้ทั้งหมด 4 บูธ first come first serve
