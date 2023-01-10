@@ -31,7 +31,7 @@ CS@TU Fast Forward 2023 เรียกสั้น ๆ ว่า "งาน Fas
 *เฉพาะที่ confirm แล้ว*
 - **ไปป์ รัฐธรรม นิรัติศัยสกุล** - Engineering Manager @ LINE MAN Wongnai
 - **ปาล์ม ศศิเกตุ สุวรรณชาตรี** - Technical Product Manager @ Nimble
-- **นัท ศุภณัฐ กิติไพศาลนนท์** - Assistant Audit Manager @ บริษัทปูนซิเมนต์ไทย จำกัด (มหาชน)
+- **นัท ศุภณัฐ กิติไพศาลนนท์** - Assistant Audit Manager @ SCG
 - **จ๊อบ** - Product Owner @ TMBThanachart
 - **น้ำฟ้า พัทธ์อัมพร พนมยงค์** - Lead Product Manager @ SCB
 - **แบค** - Blogger
