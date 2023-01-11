@@ -40,6 +40,7 @@ CS@TU Fast Forward 2023 เรียกสั้น ๆ ว่า "งาน Fas
 - **ดีน Salah Chalermthai** - Curious Technologist @ Thoughtworks (Thailand), co., ltd
 - **อาท สมัชชา ธนังธนกิจ** - Technical Lead @ Krungsri Nimble
 - **ธนัชพร ยุทธนาลิขิต** - Investment Product Manager @ Kiatnakin Phatra Bank
+- **ปุ่น Preeyaporn Supcharoen** - Senior Blockchain Product Manager @ Kasikorn Labs (KLabs)
 
 ## พื้นที่สำหรับบูธประชาสัมพันธ์
 บริษัทที่สนใจสามารถจองพื้นที่เปิดบูธประชาสัมพันธ์ได้ฟรี ไม่มีค่าใช้จ่าย จำนวนบูธที่เปิดได้ทั้งหมด 4 บูธ first come first serve
