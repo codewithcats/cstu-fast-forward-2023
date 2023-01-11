@@ -50,3 +50,7 @@ CS@TU Fast Forward 2023 เรียกสั้น ๆ ว่า "งาน Fas
 
 ![20221130_085417_1](https://user-images.githubusercontent.com/811559/211288831-2194b2e5-f64e-4427-9535-8e8953de2df8.jpeg)
 ⬆️ พื้นที่จัดบูธบริเวณทางเข้างาน
+
+#### Floor Plan
+![floor_plan](https://user-images.githubusercontent.com/811559/211703023-4957d78b-7d89-4c19-9ca8-8b28173c5623.jpg)
+
