@@ -46,7 +46,7 @@ CS@TU Fast Forward 2023 เรียกสั้น ๆ ว่า "งาน Fas
 1. LINE MAN Wongnai
 2. CJ Express Group Co., Ltd.
 3. Protoss technology
-4. _ว่าง_
+4. TTB Spark
 
 ![20221130_085417_1](https://user-images.githubusercontent.com/811559/211288831-2194b2e5-f64e-4427-9535-8e8953de2df8.jpeg)
 ⬆️ พื้นที่จัดบูธบริเวณทางเข้างาน
