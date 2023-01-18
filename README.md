@@ -43,11 +43,15 @@ CS@TU Fast Forward 2023 เรียกสั้น ๆ ว่า "งาน Fas
 - **ปุ่น Preeyaporn Supcharoen** - Senior Blockchain Product Manager @ Kasikorn Labs (KLabs)
 
 ## พื้นที่สำหรับบูธประชาสัมพันธ์
-บริษัทที่สนใจสามารถจองพื้นที่เปิดบูธประชาสัมพันธ์ได้ฟรี ไม่มีค่าใช้จ่าย จำนวนบูธที่เปิดได้ทั้งหมด 4 บูธ first come first serve
+บริษัทที่สนใจสามารถจองพื้นที่เปิดบูธประชาสัมพันธ์ได้ฟรี ไม่มีค่าใช้จ่าย จำนวนบูธที่เปิดได้ทั้งหมด 8 บูธ first come first serve
 1. LINE MAN Wongnai
 2. CJ Express Group Co., Ltd.
 3. Protoss technology
 4. TTB Spark
+5. KBTG
+6. SCB
+7. King Power Click
+8. _ว่าง_
 
 ![20221130_085417_1](https://user-images.githubusercontent.com/811559/211288831-2194b2e5-f64e-4427-9535-8e8953de2df8.jpeg)
 ⬆️ พื้นที่จัดบูธบริเวณทางเข้างาน
