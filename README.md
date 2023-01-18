@@ -55,3 +55,4 @@ CS@TU Fast Forward 2023 เรียกสั้น ๆ ว่า "งาน Fas
 6. SCB
 7. King Power Click
 
+![floor_plan_310](https://user-images.githubusercontent.com/811559/213130816-5643279a-193d-4f88-9d67-4b22a31e3d01.jpg)
