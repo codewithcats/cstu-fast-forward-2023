@@ -46,7 +46,7 @@ CS@TU Fast Forward 2023 เรียกสั้น ๆ ว่า "งาน Fas
 - **แนน เกตุนภา วิไลประสิทธิ์พร** - Head of Product Analytics @ Heroleads Asia
 
 ## พื้นที่สำหรับบูธประชาสัมพันธ์
-บริษัทที่สนใจสามารถจองพื้นที่เปิดบูธประชาสัมพันธ์ได้ฟรี ไม่มีค่าใช้จ่าย จำนวนบูธที่เปิดได้ทั้งหมด 8 บูธ first come first serve
+บริษัทที่สนใจสามารถจองพื้นที่เปิดบูธประชาสัมพันธ์ได้ฟรี ไม่มีค่าใช้จ่าย จำนวนบูธที่เปิดได้ทั้งหมด 7 บูธ first come first serve
 1. LINE MAN Wongnai
 2. CJ Express Group Co., Ltd.
 3. Protoss technology
@@ -54,5 +54,4 @@ CS@TU Fast Forward 2023 เรียกสั้น ๆ ว่า "งาน Fas
 5. KBTG
 6. SCB
 7. King Power Click
-8. _ว่าง_
 
