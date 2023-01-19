@@ -35,7 +35,7 @@ CS@TU Fast Forward 2023 เรียกสั้น ๆ ว่า "งาน Fas
 - **จ๊อบ** - Product Owner @ TMBThanachart
 - **น้ำฟ้า พัทธ์อัมพร พนมยงค์** - Lead Product Manager @ SCB
 - **แบค กิตติทัศน์ อมตะวัฒนะกิจ** - Blogger | Digital Marketer bacidea.com
-- **แก้ว สิทธิกิตติ์ รวิวีรวรรณ** - Photographer | Former Startup Marketing director in startup industry mobilefotographer.com
+- ~**แก้ว สิทธิกิตติ์ รวิวีรวรรณ** - Photographer | Former Startup Marketing director in startup industry mobilefotographer.com~
 - **ทอป สิทธิกิตติ์ รวิวีรวรรณ** - digital partner papayatop.com
 - **นัท ณัฐ วีระวรรณ์** - Blockchain Researcher @ Beer Cat Lab
 - **ศักดิ์ อดิศักดิ์** - Software Engineer @ Cjexpress
@@ -44,6 +44,7 @@ CS@TU Fast Forward 2023 เรียกสั้น ๆ ว่า "งาน Fas
 - **ธนัชพร ยุทธนาลิขิต** - Investment Product Manager @ Kiatnakin Phatra Bank
 - **ปุ่น Preeyaporn Supcharoen** - Senior Blockchain Product Manager @ Kasikorn Labs (KLabs)
 - **แนน เกตุนภา วิไลประสิทธิ์พร** - Head of Product Analytics @ Heroleads Asia
+- **แอม** - Technical Project Manager @ AIS
 
 ## พื้นที่สำหรับบูธประชาสัมพันธ์
 บริษัทที่สนใจสามารถจองพื้นที่เปิดบูธประชาสัมพันธ์ได้ฟรี ไม่มีค่าใช้จ่าย จำนวนบูธที่เปิดได้ทั้งหมด 7 บูธ first come first serve
