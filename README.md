@@ -45,6 +45,8 @@ CS@TU Fast Forward 2023 เรียกสั้น ๆ ว่า "งาน Fas
 - **ปุ่น Preeyaporn Supcharoen** - Senior Blockchain Product Manager @ Kasikorn Labs (KLabs)
 - **แนน เกตุนภา วิไลประสิทธิ์พร** - Head of Product Analytics @ Heroleads Asia
 - **แอม** - Technical Project Manager @ AIS
+- **วีรเกียรติ เศรษฐชาตนันท์** - Vice President of Technology @ King Power Click
+- **ภากร คูกรินทร์รัตน์** - Assistant Vice President of Technology @ King Power Click
 
 ## พื้นที่สำหรับบูธประชาสัมพันธ์
 บริษัทที่สนใจสามารถจองพื้นที่เปิดบูธประชาสัมพันธ์ได้ฟรี ไม่มีค่าใช้จ่าย จำนวนบูธที่เปิดได้ทั้งหมด 7 บูธ first come first serve
