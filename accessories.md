@@ -13,3 +13,8 @@
 ![table_2](https://user-images.githubusercontent.com/811559/213951803-5ca822ea-af17-4fec-ae15-9aa60d14287d.jpg)
 - ขนาดประมาณ 180x45cm
 - จำนวน 2-4 ตัว
+
+## ระบบเสียง
+
+#### ไมค์ลอย
+- จำนวน 4-6 ตัว
