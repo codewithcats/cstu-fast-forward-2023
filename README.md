@@ -36,7 +36,7 @@ CS@TU Fast Forward 2023 เรียกสั้น ๆ ว่า "งาน Fas
 - **น้ำฟ้า พัทธ์อัมพร พนมยงค์** - Lead Product Manager @ SCB
 - **แบค กิตติทัศน์ อมตะวัฒนะกิจ** - Blogger | Digital Marketer bacidea.com
 - ~**แก้ว สิทธิกิตติ์ รวิวีรวรรณ** - Photographer | Former Startup Marketing director in startup industry mobilefotographer.com~
-- **ทอป สิทธิกิตติ์ รวิวีรวรรณ** - digital partner papayatop.com
+- **ทอป นันทพงศ์ จงประทีป** - digital partner papayatop.com
 - **นัท ณัฐ วีระวรรณ์** - Blockchain Researcher @ Beer Cat Lab
 - **ศักดิ์ อดิศักดิ์** - Software Engineer @ Cjexpress
 - **ดีน Salah Chalermthai** - Curious Technologist @ Thoughtworks (Thailand), co., ltd
